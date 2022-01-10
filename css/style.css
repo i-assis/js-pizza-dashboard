@@ -1,0 +1,15 @@
+.outer {
+  position: relative;
+  margin-top: 20px;
+}
+
+.top {
+  position: absolute;
+  margin-top: 30px;
+  background-color: green;
+}
+
+.bot {
+  position: absolute;
+  background-color: yellow;
+}
